@@ -1,4 +1,4 @@
-# Vladimir Smovzh  
+# Uladzimir Smouzh  
 Vladimir.smovzh@icloud.com  
 Minsk, Belarus  
 Mob. +375 29 688 24 04 (Viber, Telegram)  
@@ -10,8 +10,14 @@ Passionate about information technologies, currently switching the field of acti
 
 ##### **Employment History**
 ___
+**Engeneer** at PERI Belarus
+2012 – 2014
+
+**Senior Engeneer** at PERI Belarus
+2014 – 2016
+
 **Project Manager** at PERI Belarus
-2016 – present
+2016 – 2021
 
 **My core activities include:**
 * Understanding client requirements and needs.
