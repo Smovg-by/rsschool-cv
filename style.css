@@ -16,14 +16,6 @@ body {
   font-family: sans-serif;
 }
 
-header {
-  padding-top: 20px;
-}
-
-section {
-  padding-top: 20px;
-}
-
 h1 {
   display: none;
 }
@@ -49,6 +41,10 @@ span {
 
 li {
   margin-left: 20px;
+}
+
+.section {
+  padding-top: 20px;
 }
 
 .section:last-child {
